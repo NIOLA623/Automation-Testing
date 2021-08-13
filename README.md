@@ -7,7 +7,7 @@
 #### Conditional Webdriver Commands
 #### Selenium Webdriver Implicit Wait Commands
 #### Selenium Webdriver Explicit Wait commands
-#### Radio Buttons and Caheckboxes
+#### Radio Buttons and Checkboxes
 #### Working with Dropdown Selenium
 #### Working with links
 #### Frame Navigation
